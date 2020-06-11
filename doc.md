@@ -1,12 +1,12 @@
 ## Publishing Notebook on Watson Studio - A step to step Guide
 
-<h2>This document will help you in publishing your Project notebook craeted in Watson Studio to GitHub repository.</h2>
+<h3>This document will help you in publishing your Project notebook craeted in Watson Studio to GitHub repository.</h3>
 <p>1) Click on the project which you want to integrate and select tab ‘Settings’. Scroll down the page and you will get the option as:</p>
 
 <image src="https://user-images.githubusercontent.com/25001852/84366824-ff2f1d80-abf0-11ea-9553-fce91b34637c.png">
 
 2)	Click GitHub repository and on text box click. You will get the error as shown below:
-<image src="(https://user-images.githubusercontent.com/25001852/84371794-d199a280-abf7-11ea-8237-f6604486fe80.png">
+<image src="https://user-images.githubusercontent.com/25001852/84371794-d199a280-abf7-11ea-8237-f6604486fe80.png">
 
 3)	Click on ‘Settings’ which navigate you to your profile Integrations as:
 <image src="https://user-images.githubusercontent.com/25001852/84371824-e0805500-abf7-11ea-880a-b3b4f2a1c7d4.png"> 
