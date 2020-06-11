@@ -39,7 +39,7 @@ This document will help you in publishing your Project notebook created in Watso
 7.	Paste it in integration settings and click save.
 <image src="https://user-images.githubusercontent.com/25001852/84372006-21786980-abf8-11ea-9b1e-dba0c0e0fa95.png">
  
-8.	Now, go back to Watson Project > Settings Tab and provide the github repository link as shown below:
+8.	Now, go back to Watson Project > Settings Tab and provide the github repository link <b>(the link should be of your github repository in which you want to publish the notebook)</b> as shown below:
 <image src="https://user-images.githubusercontent.com/25001852/84372073-394fed80-abf8-11ea-90c2-ad0f7ed29210.png">
 
 <p>If update is not visible, click outside textbox that will be available and click ‘Update’.</p>
