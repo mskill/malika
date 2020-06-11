@@ -2,7 +2,7 @@
 
 <h3>This document will help you in publishing your Project notebook created in Watson Studio to GitHub repository.</h3>
 
-<ol>1) Click on the project which you want to integrate and select tab ‘Settings’. Scroll down the page and you will get the option as:</ol>
+<ol><h5>1) Click on the project which you want to integrate and select tab ‘Settings’. Scroll down the page and you will get the option as:</h5></ol>
 
 <image src="https://user-images.githubusercontent.com/25001852/84366824-ff2f1d80-abf0-11ea-9553-fce91b34637c.png">
 
