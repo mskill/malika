@@ -1,6 +1,6 @@
 # Publishing Notebook on Watson Studio - A step to step Guide
 
-This document will help you in publishing your Project notebook created in Watson Studio to GitHub repository.
+<h3>This document will help you in publishing your Project notebook created in Watson Studio to GitHub repository.</h3>
 
  1. Click on the project which you want to integrate and select tab
     ‘Settings’. Scroll down the page and you will get the option as:
