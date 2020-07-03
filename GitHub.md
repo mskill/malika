@@ -81,7 +81,7 @@ Now, check your file is edited with the new text.
 
 ![image](https://user-images.githubusercontent.com/25001852/86438654-a0a71c00-bd24-11ea-87d7-6476c19831cb.png "Commit new file")
 
-Your file is now added to your repository and check the updates made in the file are 'now' and 'a few minutes back'.
+Your file is now added to your repository and the repository listing shows when the file was  added/changed.
 
 ![image](https://user-images.githubusercontent.com/25001852/86439419-2d9ea500-bd26-11ea-9cfc-bfaa5194d543.png "File Added")
 
@@ -92,11 +92,11 @@ Your file is now added to your repository and check the updates made in the file
 
 ![image](https://user-images.githubusercontent.com/25001852/86440216-b10cc600-bd27-11ea-8149-db3ba19bef36.png "Upload file")
 
-- Choose your file or files using 'Choose your files' option.
+- Click on `choose your files` and choose any files from your computer.
 
 ![image](https://user-images.githubusercontent.com/25001852/86440286-d0a3ee80-bd27-11ea-83e2-385ec62e7b3c.png "Choose file")
 
-- The file is upload and click 'Commit changes'.
+- Once the file finished uploading, click on `Commit Changes`
 
 ![image](https://user-images.githubusercontent.com/25001852/86441331-a9e6b780-bd29-11ea-9d8a-9c695551a4fe.png "Uploaded file added")
 
