@@ -44,4 +44,15 @@ Email is verified
 and click 'Create repository'.
 
 
+Now, you will be redirected to the repository you have created.
+
+![image](https://user-images.githubusercontent.com/25001852/86433218-beba4f80-bd17-11ea-8dfa-8f1e57ff9b44.png "repo created")
+
+
+Let's start editing the repository.
+
+## Edit
+As you are already in a README.md file so we edit the README.md file. Click on the pencil icon to edit the file. 
+
+![image](https://user-images.githubusercontent.com/25001852/86433720-1e652a80-bd19-11ea-90d1-ba70afba79d3.png "Edit Readme.md file")
 
