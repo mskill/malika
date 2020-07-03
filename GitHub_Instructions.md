@@ -24,7 +24,7 @@ As shown in above image, we are in 'Child_Branch' and not the master. Whatever, 
 
 ## Adding a file in the Child Branch
 
-- - Click 'Add file' and select 'Create New file' to create a file in the repository.
+- Click 'Add file' and select 'Create New file' to create a file in the repository.
 
 ![image](https://user-images.githubusercontent.com/25001852/86445211-9dfdf400-bd2f-11ea-96d6-5af2f3da38bb.png "New File")
 
