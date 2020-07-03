@@ -96,7 +96,7 @@ Your file is now added to your repository and the repository listing shows when 
 
 ![image](https://user-images.githubusercontent.com/25001852/86440286-d0a3ee80-bd27-11ea-83e2-385ec62e7b3c.png "Choose file")
 
-- Once the file finished uploading, click on `Commit Changes`
+- Once the file finishes uploading, click on `Commit Changes`
 
 ![image](https://user-images.githubusercontent.com/25001852/86441331-a9e6b780-bd29-11ea-9d8a-9c695551a4fe.png "Uploaded file added")
 
