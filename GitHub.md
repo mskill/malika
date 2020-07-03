@@ -77,7 +77,7 @@ Now, check your file is edited with the new text.
 
 ![image](https://user-images.githubusercontent.com/25001852/86438509-558d0900-bd24-11ea-9487-afce4528c661.png "Create Python file")
 
-- Scroll down the page after adding the text. Add description of the file (optional) and click `Commit new file`.
+- Scroll down the page after adding the text. `Add description` of the file (optional) and click `Commit new file`.
 
 ![image](https://user-images.githubusercontent.com/25001852/86438654-a0a71c00-bd24-11ea-87d7-6476c19831cb.png "Commit new file")
 
