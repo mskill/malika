@@ -49,7 +49,7 @@ Now, you will be redirected to the repository you have created.
 Let's start editing the repository.
 
 ## Edit
-- Once the repository is created, the root folder of your repository is listed by default and it has just one file . ReadMe.md . Click on the pencil icon to edit the file.
+- Once the repository is created, the root folder of your repository is listed by default and it has just one file `bash ReadMe.md` . Click on the pencil icon to edit the file.
 
 ![image](https://user-images.githubusercontent.com/25001852/86437869-0f837580-bd23-11ea-9bbd-2a9615c5e9f8.png "Edit Readme.md file")
 
