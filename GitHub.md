@@ -98,7 +98,7 @@ Your file is now added to your repository and check the updates made in the file
 
 - The file is upload and click 'Commit changes'.
 
-![image](https://user-images.githubusercontent.com/25001852/86440460-1b256b00-bd28-11ea-833c-5fcd584b4b87.png "Uploaded file added")
+![image](https://user-images.githubusercontent.com/25001852/86441331-a9e6b780-bd29-11ea-9d8a-9c695551a4fe.png "Uploaded file added")
 
 Now, your file is uplaoded in the repository.
 
