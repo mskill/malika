@@ -34,4 +34,44 @@ As shown in above image, we are in 'Child_Branch' and not the master. Whatever, 
 
 - Scroll down the page after adding the text. Add description of the file (optional) and click 'Commit new file'.
 
-![image](https://user-images.githubusercontent.com/25001852/86445112-73ac3680-bd2f-11ea-83df-7ca4cdc53f66.png)
+![image](https://user-images.githubusercontent.com/25001852/86445112-73ac3680-bd2f-11ea-83df-7ca4cdc53f66.png "Commit in child branch")
+
+File is added to the child branch
+
+## Comapre and Pull Request
+
+You can check the master branch now there is no testchild.py file by selecting the branch selector menu or you can also compare the file as shown below with the option given 'Compare and pull request'.
+
+![image](https://user-images.githubusercontent.com/25001852/86445527-2da3a280-bd30-11ea-8ffa-a88d0f236099.png "compare")
+
+- Scroll down the page, you will get 1 file changed
+
+![image](https://user-images.githubusercontent.com/25001852/86445603-5035bb80-bd30-11ea-9567-18d04c71376e.png "file changed")
+
+- Scroll up and create a pull request using the option 'Create Pull request". In the highlight, you can see the arrow which means that you are comparing and creating a pull request. 'Add the comments'  (optional) to create a request.
+
+![image](https://user-images.githubusercontent.com/25001852/86446021-f71a5780-bd30-11ea-99d1-e7010d9aad5c.png)
+
+## Merge the Pull Request
+
+To accept the pull request, click the Pull Requests tab to see a summary of pending pull requests. If you are happy with the changes, click Merge Pull request to accept the pull request and perform the merge. You can add in a comment if you want.
+
+![image](https://user-images.githubusercontent.com/25001852/86446556-bf5fdf80-bd31-11ea-9029-3ebaf9356c0d.png)
+
+Once you click Merge Pull request, you will see a button Confirm merge.
+
+![image](https://user-images.githubusercontent.com/25001852/86446749-0221b780-bd32-11ea-9741-eebde8648291.png)
+
+Your request is now merged successfully.
+
+![image](https://user-images.githubusercontent.com/25001852/86446923-385f3700-bd32-11ea-9be1-2942d4b4f0da.png)
+
+Now, the child branch is completely merged with the Master branch. You can check the Master branch is having the testchild.py file.
+
+![image](https://user-images.githubusercontent.com/25001852/86447135-82481d00-bd32-11ea-9607-fed8862e4155.png)
+
+
+## Summary
+
+In this document, you have learnt how to create a branch, edit and commit the changes, Open a pull request and merging the request.
+
