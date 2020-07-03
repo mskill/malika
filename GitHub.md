@@ -79,7 +79,7 @@ Now, check your file is edited with the new text.
 
 - Scroll down the page after adding the text. Add description of the file (optional) and click 'Commit new file'.
 
-![image](https://user-images.githubusercontent.com/25001852/86434922-591c9200-bd1c-11ea-8edc-add1daeca992.png "Commit new file")
+![image](https://user-images.githubusercontent.com/25001852/86438654-a0a71c00-bd24-11ea-87d7-6476c19831cb.png "Commit new file")
 
 Your file is now added to your repository
 
