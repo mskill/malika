@@ -59,7 +59,7 @@ Let's start editing the repository.
 
 - Scroll down the page after adding the text and click 'Commit Changes'.
 
-![image](https://user-images.githubusercontent.com/25001852/86434113-3ab59700-bd1a-11ea-8e6f-ae9ee84c62f5.png "Commit changes")
+![image](https://user-images.githubusercontent.com/25001852/86438194-b831d500-bd23-11ea-9f1b-7c6335fc899b.png "Commit changes")
 
 Now, check your file is edited with the new text.
 
