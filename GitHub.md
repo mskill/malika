@@ -52,14 +52,43 @@ Now, you will be redirected to the repository you have created.
 Let's start editing the repository.
 
 ## Edit
-As you are already in a README.md file so we edit the README.md file. Click on the pencil icon to edit the file. 
+- As you are already in a README.md file so we edit the README.md file. Click on the pencil icon to edit the file. 
 
 ![image](https://user-images.githubusercontent.com/25001852/86433720-1e652a80-bd19-11ea-90d1-ba70afba79d3.png "Edit Readme.md file")
 
-Add text to file.
+- Add text to file.
 
 ![image](https://user-images.githubusercontent.com/25001852/86434028-f75b2880-bd19-11ea-9e66-ea267e45ad72.png)
 
-Scroll down the page after adding the text and click 'Commit Changes'.
+- Scroll down the page after adding the text and click 'Commit Changes'.
 
 ![image](https://user-images.githubusercontent.com/25001852/86434113-3ab59700-bd1a-11ea-8e6f-ae9ee84c62f5.png "Commit changes")
+
+Now, check your file is edited with the new text.
+
+![image](https://user-images.githubusercontent.com/25001852/86434211-81a38c80-bd1a-11ea-9a00-7d4ce0bdb785.png "File changed")
+
+## Create a New file in repository
+
+- Click on the repository name to go back to the master branch like in this testrepo.
+
+![image](https://user-images.githubusercontent.com/25001852/86434374-f5de3000-bd1a-11ea-9616-1b3f3be811ee.png "Master Branch")
+
+- Click 'Add file' and select 'Create New file' to create a file in the repository.
+
+![image](https://user-images.githubusercontent.com/25001852/86434466-3342bd80-bd1b-11ea-95ea-541be5bb0115.png "New File")
+
+- Provide the file name and the extension of the file. For example, firstpython.py and add the lines.
+
+![image](https://user-images.githubusercontent.com/25001852/86434838-1955aa80-bd1c-11ea-8548-285ea9a5fbf8.png "Create Python file")
+
+- Scroll down the page after adding the text. Add description of the file (optional) and click 'Commit new file'.
+
+![image](https://user-images.githubusercontent.com/25001852/86434922-591c9200-bd1c-11ea-8edc-add1daeca992.png "Commit new file")
+
+Your file is now added to your repository
+
+![image](https://user-images.githubusercontent.com/25001852/86435011-8ff2a800-bd1c-11ea-9bb8-af7a6fc09f03.png "File Added")
+
+
+
