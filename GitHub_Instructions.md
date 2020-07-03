@@ -10,13 +10,11 @@ You can create or delete branches directly on GitHub.
 
 - On GitHub, navigate to the main page of the repository.
 
-- Click the branch selector menu.
+- Click the branch selector menu. Enter the name of the branch you want to create and press enter. 
 
-![image](https://user-images.githubusercontent.com/25001852/86443327-bddfe880-bd2c-11ea-96dc-0b88057600fd.png "Child branch")
+![image](https://user-images.githubusercontent.com/25001852/86453602-af4cfd80-bd3b-11ea-9166-2101c522febe.png "Child branch")
 
-and 'Enter'.
-
-Now, the branch is created and see the number of branches has now changed to '2'.
+You will then see that your repository has two branches.
 
 ![image](https://user-images.githubusercontent.com/25001852/86443756-59715900-bd2d-11ea-9942-d3ff15328498.png "Branch number")
 
