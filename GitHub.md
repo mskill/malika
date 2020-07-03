@@ -10,7 +10,7 @@ and click 'Create account'.
 
 3. Click 'Verify' to verify the account and click 'Done' 
 
-![alt text] (https://user-images.githubusercontent.com/25001852/86431226-d7c00200-bd11-11ea-8711-80857d08e829.png "Use Free Plan")
+![alt text](https://user-images.githubusercontent.com/25001852/86431226-d7c00200-bd11-11ea-8711-80857d08e829.png "Use Free Plan")
 
 After verification done. Click 'Join a Free Plan'
 
