@@ -90,7 +90,23 @@ Your file is now added to your repository and check the updates made in the file
 
 - Click 'Add file' and select 'Uplaod files' to upload a file in the repository from local computer.
 
-![image](https://user-images.githubusercontent.com/25001852/86439187-bcf78880-bd25-11ea-8a75-bb82cf9825a7.png "Upload file")
+![image](https://user-images.githubusercontent.com/25001852/86440216-b10cc600-bd27-11ea-8149-db3ba19bef36.png "Upload file")
 
-- 
+- Choose your file or files using 'Choose your files' option.
+
+![image](https://user-images.githubusercontent.com/25001852/86440286-d0a3ee80-bd27-11ea-83e2-385ec62e7b3c.png "Choose file")
+
+- The file is upload and click 'Commit changes'.
+
+![image](https://user-images.githubusercontent.com/25001852/86440460-1b256b00-bd28-11ea-833c-5fcd584b4b87.png "Uploaded file added")
+
+Now, your file is uplaoded in the repository.
+
+![image](https://user-images.githubusercontent.com/25001852/86440628-6f304f80-bd28-11ea-9214-605fae47a9d3.png)
+
+
+## Summary
+In this document you have learned how to create a new repository, adding a new file, editing a file and uploading a file in a repository. 
+
+
 
