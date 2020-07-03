@@ -35,7 +35,7 @@ Email is verified
 
 1. Click on '+' symbol and click 'New repository'.
 
-![image](https://user-images.githubusercontent.com/25001852/86432277-ccbaa100-bd14-11ea-9824-8c527bf6a1e5.png "New Repo")
+![image](https://user-images.githubusercontent.com/25001852/86437203-a2231500-bd21-11ea-8b47-230959ef8ba1.png "New Repo")
 
 2. Provide a repository a name and initialize with the empty README.md file
 
