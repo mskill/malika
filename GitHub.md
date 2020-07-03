@@ -51,7 +51,7 @@ Let's start editing the repository.
 ## Edit
 - As you are already in a README.md file so we edit the README.md file. Click on the pencil icon to edit the file. 
 
-![image](https://user-images.githubusercontent.com/25001852/86433720-1e652a80-bd19-11ea-90d1-ba70afba79d3.png "Edit Readme.md file")
+![image](https://user-images.githubusercontent.com/25001852/86437869-0f837580-bd23-11ea-9bbd-2a9615c5e9f8.png "Edit Readme.md file")
 
 - Add text to file.
 
