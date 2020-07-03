@@ -7,7 +7,7 @@
 
 - Provide the necessary details to create an account as shown below:
 
-![alt text](https://user-images.githubusercontent.com/25001852/86431063-66804f00-bd11-11ea-8bc2-a3a80b8f1fdc.png "Git Create Account")
+![image](https://user-images.githubusercontent.com/25001852/86441214-79068280-bd29-11ea-913d-c575c8ff8282.png "Git Create Account")
 
 and click 'Create account'.
 
