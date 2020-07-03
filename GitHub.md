@@ -81,7 +81,7 @@ Now, check your file is edited with the new text.
 
 ![image](https://user-images.githubusercontent.com/25001852/86438654-a0a71c00-bd24-11ea-87d7-6476c19831cb.png "Commit new file")
 
-Your file is now added to your repository
+Your file is now added to your repository and check the updates made in the file are now and a few minutes back.
 
 ![image](https://user-images.githubusercontent.com/25001852/86438807-e19f3080-bd24-11ea-85d3-b2fc6161f272.png "File Added")
 
