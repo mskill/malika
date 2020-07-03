@@ -23,7 +23,7 @@ and click 'Create account'.
 
 ![image](https://user-images.githubusercontent.com/25001852/86431692-13a79700-bd13-11ea-9dcf-ae779bb2feb1.png "Complete Setup")
 
-- Verify your Email Address
+- Verify your `Email Address`
 
 ![image](https://user-images.githubusercontent.com/25001852/86437013-304acb80-bd21-11ea-9310-3a0b1ee12497.png "Verify Email")
 
