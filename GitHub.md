@@ -46,9 +46,6 @@ and click 'Create repository'.
 
 Now, you will be redirected to the repository you have created.
 
-![image](https://user-images.githubusercontent.com/25001852/86433218-beba4f80-bd17-11ea-8dfa-8f1e57ff9b44.png "repo created")
-
-
 Let's start editing the repository.
 
 ## Edit
