@@ -25,7 +25,7 @@ and click 'Create account'.
 
 6. Verify your Email Address
 
-![image](https://user-images.githubusercontent.com/25001852/86431828-76009780-bd13-11ea-84e6-ff92f5a844d4.png "Verify Email")
+![image](https://user-images.githubusercontent.com/25001852/86437013-304acb80-bd21-11ea-9310-3a0b1ee12497.png "Verify Email")
 
 Email is verified
 
