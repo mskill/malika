@@ -40,6 +40,8 @@ File is added to the child branch
 
 You can check the master branch now there is no testchild.py file by selecting the branch selector menu 
 
+![image](https://user-images.githubusercontent.com/25001852/86469000-28f1e500-bd56-11ea-9191-b5705aec84b3.png "Difference")
+
 
 Or you can also compare the file as shown below with the option given `Compare and pull request`.
 
