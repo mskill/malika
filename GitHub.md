@@ -83,7 +83,7 @@ Now, check your file is edited with the new text.
 
 Your file is now added to your repository
 
-![image](https://user-images.githubusercontent.com/25001852/86435011-8ff2a800-bd1c-11ea-9bb8-af7a6fc09f03.png "File Added")
+![image](https://user-images.githubusercontent.com/25001852/86438807-e19f3080-bd24-11ea-85d3-b2fc6161f272.png "File Added")
 
 
 ## Upload a file
