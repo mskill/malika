@@ -75,7 +75,7 @@ Now, check your file is edited with the new text.
 
 - Provide the file name and the extension of the file. For example, firstpython.py and add the lines.
 
-![image](https://user-images.githubusercontent.com/25001852/86434838-1955aa80-bd1c-11ea-8548-285ea9a5fbf8.png "Create Python file")
+![image](https://user-images.githubusercontent.com/25001852/86438509-558d0900-bd24-11ea-9487-afce4528c661.png "Create Python file")
 
 - Scroll down the page after adding the text. Add description of the file (optional) and click 'Commit new file'.
 
