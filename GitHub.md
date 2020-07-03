@@ -2,28 +2,28 @@
 
 ## Create GitHub Account
 
-1. Go to GitHub page to create an account:
+- Go to GitHub page to create an account:
 [Click Here](https://github.com/join)
 
-2. Provide the necessary details to create an account as shown below:
+- Provide the necessary details to create an account as shown below:
 
 ![alt text](https://user-images.githubusercontent.com/25001852/86431063-66804f00-bd11-11ea-8bc2-a3a80b8f1fdc.png "Git Create Account")
 
 and click 'Create account'.
 
-3. Click 'Verify' to verify the account and click 'Done' 
+- Click 'Verify' to verify the account and click 'Done' 
 
 ![image](https://user-images.githubusercontent.com/25001852/86436621-4310d080-bd20-11ea-866a-8ba864d08211.png "Verify")
 
-4. After verification done. Click 'Join a Free Plan'
+- After verification done. Click 'Join a Free Plan'
 
 ![image](https://user-images.githubusercontent.com/25001852/86436707-6b003400-bd20-11ea-8c51-7a5d58ca1bc5.png 'Join Free Plan')
 
-5. Select the details as shown below and click 'Complete Setup'
+- Select the details as shown below and click 'Complete Setup'
 
 ![image](https://user-images.githubusercontent.com/25001852/86431692-13a79700-bd13-11ea-9dcf-ae779bb2feb1.png "Complete Setup")
 
-6. Verify your Email Address
+- Verify your Email Address
 
 ![image](https://user-images.githubusercontent.com/25001852/86437013-304acb80-bd21-11ea-9310-3a0b1ee12497.png "Verify Email")
 
@@ -33,11 +33,11 @@ Email is verified
 
 ## Create a New Repository in your GitHub account
 
-1. Click on '+' symbol and click 'New repository'.
+- Click on '+' symbol and click 'New repository'.
 
 ![image](https://user-images.githubusercontent.com/25001852/86437203-a2231500-bd21-11ea-8b47-230959ef8ba1.png "New Repo")
 
-2. Provide a repository a name and initialize with the empty README.md file
+- Provide a repository a name and initialize with the empty README.md file
 
 ![image](https://user-images.githubusercontent.com/25001852/86432380-2b801a80-bd15-11ea-9ca0-84d576b82788.png "Repo details")
 
