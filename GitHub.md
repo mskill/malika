@@ -67,7 +67,7 @@ Now, check your file is edited with the new text.
 
 - Click on the repository name to go back to the master branch like in this testrepo.
 
-![image](https://user-images.githubusercontent.com/25001852/86438293-e9aaa080-bd23-11ea-9ac3-f5b20b6d1594.png "Master Branch")
+![image](https://user-images.githubusercontent.com/25001852/86438410-1eb6f300-bd24-11ea-9e0e-eda8e69bab59.png "Master Branch")
 
 - Click 'Add file' and select 'Create New file' to create a file in the repository.
 
