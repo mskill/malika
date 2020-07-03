@@ -106,7 +106,7 @@ Now, your file is uplaoded in the repository.
 
 
 ## Summary
-In this document you have learned how to create a new repository, adding a new file, editing a file and uploading a file in a repository. 
+In this document you have learnt how to create a new repository, adding a new file, editing a file and uploading a file in a repository. 
 
 
 
