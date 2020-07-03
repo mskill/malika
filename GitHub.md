@@ -71,7 +71,7 @@ Now, check your file is edited with the new text.
 
 - Click 'Add file' and select 'Create New file' to create a file in the repository.
 
-![image](https://user-images.githubusercontent.com/25001852/86434466-3342bd80-bd1b-11ea-95ea-541be5bb0115.png "New File")
+![image](https://user-images.githubusercontent.com/25001852/86438920-18754680-bd25-11ea-9d28-3bfccf5badbc.png "New File")
 
 - Provide the file name and the extension of the file. For example, firstpython.py and add the lines.
 
