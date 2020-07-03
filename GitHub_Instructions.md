@@ -36,9 +36,12 @@ Whatever, is in the master file is copied to the child branch. But when we add a
 
 File is added to the child branch
 
-## Comapre and Pull Request
+## Compare and Pull Request
 
-You can check the master branch now there is no testchild.py file by selecting the branch selector menu or you can also compare the file as shown below with the option given `Compare and pull request`.
+You can check the master branch now there is no testchild.py file by selecting the branch selector menu 
+
+
+Or you can also compare the file as shown below with the option given `Compare and pull request`.
 
 ![image](https://user-images.githubusercontent.com/25001852/86445527-2da3a280-bd30-11ea-8ffa-a88d0f236099.png "compare")
 
