@@ -1,6 +1,6 @@
-### GitHub Instructions
+# GitHub Instructions
 
-# Create GitHub Account
+## Create GitHub Account
 
 1. Go to GitHub page to create an account:
 [Click Here](https://github.com/join)
@@ -31,4 +31,4 @@ Email is verified
 
 ![image](https://user-images.githubusercontent.com/25001852/86431929-b52ee880-bd13-11ea-8ccf-6bb854408f70.png)
 
-# Create a New Repository in your GitHub account
+## Create a New Repository in your GitHub account
