@@ -63,8 +63,6 @@ Let's start editing the repository.
 
 Now, check your file is edited with the new text.
 
-![image](https://user-images.githubusercontent.com/25001852/86434211-81a38c80-bd1a-11ea-9a00-7d4ce0bdb785.png "File changed")
-
 ## Create a New file in repository
 
 - Click on the repository name to go back to the master branch like in this testrepo.
