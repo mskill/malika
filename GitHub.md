@@ -55,7 +55,7 @@ Let's start editing the repository.
 
 - Add text to file.
 
-![image](https://user-images.githubusercontent.com/25001852/86434028-f75b2880-bd19-11ea-9e66-ea267e45ad72.png)
+![image](https://user-images.githubusercontent.com/25001852/86438094-828cec00-bd23-11ea-9447-c3e69e910c4c.png "add text")
 
 - Scroll down the page after adding the text and click 'Commit Changes'.
 
