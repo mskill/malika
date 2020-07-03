@@ -90,7 +90,7 @@ Your file is now added to your repository
 
 - Click 'Add file' and select 'Uplaod files' to upload a file in the repository from local computer.
 
-![image](https://user-images.githubusercontent.com/25001852/86439008-49ee1200-bd25-11ea-83ec-61a26551d3e9.png "Upload file")
+![image](https://user-images.githubusercontent.com/25001852/86439187-bcf78880-bd25-11ea-8a75-bb82cf9825a7.png "Upload file")
 
 - 
 
