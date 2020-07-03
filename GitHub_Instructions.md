@@ -38,7 +38,7 @@ File is added to the child branch
 
 ## Compare and Pull Request
 
-You can check the master branch now there is no testchild.py file by selecting the branch selector menu 
+You can check the master branch now there is no testchild.py file by selecting the `Branch selector` menu 
 
 ![image](https://user-images.githubusercontent.com/25001852/86469000-28f1e500-bd56-11ea-9191-b5705aec84b3.png "Difference")
 
