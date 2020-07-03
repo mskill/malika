@@ -13,11 +13,11 @@ and click 'Create account'.
 
 3. Click 'Verify' to verify the account and click 'Done' 
 
-![alt text](https://user-images.githubusercontent.com/25001852/86431226-d7c00200-bd11-11ea-8711-80857d08e829.png "Use Free Plan")
+![image](https://user-images.githubusercontent.com/25001852/86436621-4310d080-bd20-11ea-866a-8ba864d08211.png "Verify")
 
 4. After verification done. Click 'Join a Free Plan'
 
-![image](https://user-images.githubusercontent.com/25001852/86431389-4c933c00-bd12-11ea-8f96-db611b0deb05.png "Verify")
+![image](https://user-images.githubusercontent.com/25001852/86436707-6b003400-bd20-11ea-8c51-7a5d58ca1bc5.png 'Join Free Plan')
 
 5. Select the details as shown below and click 'Complete Setup'
 
