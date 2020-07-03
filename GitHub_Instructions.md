@@ -26,8 +26,12 @@ As shown in above image, we are in 'Child_Branch' and not the master. Whatever, 
 
 - - Click 'Add file' and select 'Create New file' to create a file in the repository.
 
-![image](https://user-images.githubusercontent.com/25001852/86438920-18754680-bd25-11ea-9d28-3bfccf5badbc.png "New File")
+![image](https://user-images.githubusercontent.com/25001852/86445211-9dfdf400-bd2f-11ea-96d6-5af2f3da38bb.png "New File")
 
 - Provide the file name and the extension of the file. For example, testchild.py and add the lines.
 
 ![image](https://user-images.githubusercontent.com/25001852/86444945-2cbe4100-bd2f-11ea-8ed9-4bf50953546f.png "Create a file in child branch")
+
+- Scroll down the page after adding the text. Add description of the file (optional) and click 'Commit new file'.
+
+![image](https://user-images.githubusercontent.com/25001852/86445112-73ac3680-bd2f-11ea-83df-7ca4cdc53f66.png)
