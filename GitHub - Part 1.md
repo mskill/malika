@@ -14,5 +14,5 @@
 
 Now, your repository is created, and it looks as:
 
-![image](https://user-images.githubusercontent.com/25001852/86895916-ccf6da00-c122-11ea-806d-731d579bdc06.png)
+
 
