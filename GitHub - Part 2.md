@@ -33,3 +33,8 @@ To add a branch in master branch
 Switch the branch 
 `git checkout branchname`
 
+Adding a file in branch
+`echo "#content">> filename.txt`
+
+Then add the file and push the file. To create the branch remotely we have to use 
+`git push --set-upstream origin branchname`
