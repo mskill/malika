@@ -31,6 +31,9 @@ Email is verified
 
 
 ## SSH Key Generation
+
+An SSH key is an access credential in the SSH protocol. Its function is similar to that of user names and passwords, but the keys are primarily used for automated processes.
+
 - Launch Git Bash.
 - Type the following, replacing <your email address> with the email address that is linked to your Github account, and hit Enter:
 
