@@ -25,7 +25,7 @@ To download the repository, we have option'Download Zip' in 'Code'. Also, there 
 
 - Open the command prompt or terminal to use the GitHub commands:
 
-To change the directory simply use: 
+-To change the directory simply use: 
 
 `cd <name of the directory you want to change to>`
 
@@ -39,42 +39,42 @@ Create a folder in Downloads using SSH repository link that we have created in G
 
 Now, the folder is copied to my ‘Downloads’. Just check the ‘Downloads’ have you got the folder demo?
 
-To check my folder, enter the folder using cd command again as: 
+- To check my folder, enter the folder using cd command again as: 
 `cd demo`
 
-Get the list of the files in the folder demo, use:
+- Get the list of the files in the folder demo, use:
 For Windows: `dir `
 For Mac: `ls`
 
 ![image](https://user-images.githubusercontent.com/25001852/86911459-f9b5ec00-c138-11ea-8d45-7da44bbc20c1.png)
 
-To view the content of the file:
+- To view the content of the file:
 For Windows: `type README.md`
 For Mac: `cat README.md`
 
-To open a README.md file:
+- To open a README.md file:
 For Windows: `notepad README.md`
 For Mac: `open README.md`
 
-To create a new file:
+- To create a new file:
 For Windows: `notepad test.txt`
 For Mac: `vi test.txt`
 
-Add to the repository: 
+- Add to the repository: 
 For Windows/Mac: `git add test.txt`
 
-Check the status of the file using:
+- Check the status of the file using:
  `git status`
   
 ![image](https://user-images.githubusercontent.com/25001852/86912050-ece5c800-c139-11ea-8046-99f987f9d644.png)
 
-Commit the changes in the repository using:
+- Commit the changes in the repository using:
 `git commit -m “write message here”`
 
 ![image](https://user-images.githubusercontent.com/25001852/86912336-6b426a00-c13a-11ea-8652-3df5246b5793.png)
 
 
-Push the file to remote repository using: 
+- Push the file to remote repository using: 
 `git push`
 
 ![image](https://user-images.githubusercontent.com/25001852/86912378-801efd80-c13a-11ea-8ab2-ffafb2abbb02.png)
@@ -89,33 +89,34 @@ Now, this make the changes in my GitHub repository
 
 Copy the SSHRepositoryLink on to your clipboard as did before
 
-To come out from the demo folder first use
+- To come out from the demo folder first use
 `cd ..`
-To make a directory in download folder: 
+
+- To make a directory in download folder: 
 `mkdir demo1`
 `cd demo1`
 
 ![image](https://user-images.githubusercontent.com/25001852/86913896-f886be00-c13c-11ea-8293-11d987521b2e.png)
 
-To create a readmd file use 
+- To create a readmd file use 
 `echo "# demo1" >> README.md`
 
-Initialize the directory
+- Initialize the directory
 `git init`
 
-Create and add a README.md file. You can use a normal text editor depending on which OS you are using. 
+- Create and add a README.md file. You can use a normal text editor depending on which OS you are using. 
 `git add README.md`
 
-Check the status of the file 
+- Check the status of the file 
 `git status`
 
-Commit the changes
+- Commit the changes
 `git commit -m "first commit"`
 
-Add the origin where we have to push the file. This is the SSHRepositoryLink you copied when you created the repository.
+- Add the origin where we have to push the file. This is the SSHRepositoryLink you copied when you created the repository.
 `git remote add origin git@github.com:mskill/demo1.git`
 	
-Push the file 
+- Push the file 
 `git push -u origin master`
 
 ![image](https://user-images.githubusercontent.com/25001852/86914009-31269780-c13d-11ea-8519-76d4103be861.png)
