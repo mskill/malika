@@ -68,5 +68,14 @@ Check the status of the file using:
   
 ![image](https://user-images.githubusercontent.com/25001852/86912050-ece5c800-c139-11ea-8046-99f987f9d644.png)
 
+Commit the changes in the repository using:
+`git commit -m “write message here”`
 
+![image](https://user-images.githubusercontent.com/25001852/86912336-6b426a00-c13a-11ea-8652-3df5246b5793.png)
+
+
+Push the file to remote repository using: 
+`git push`
+
+![image](https://user-images.githubusercontent.com/25001852/86912378-801efd80-c13a-11ea-8ab2-ffafb2abbb02.png)
 
