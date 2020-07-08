@@ -20,7 +20,11 @@ You will be redirected to a new page and it started downloading.
 
 <b>NOTE:</b> If the download doesn't start, click on the option 'Click here to download manually'
 
-- Open the folder where it is downloaded and click it to Install. 
+- Open the folder where it is downloaded and click 'Run'
+
+![image](https://user-images.githubusercontent.com/25001852/86884017-92844180-c110-11ea-996e-230867a0f6e0.png)
+
+Click it to Install. 
 
 ![image](https://user-images.githubusercontent.com/25001852/86881988-1dfbd380-c10d-11ea-8f11-9c564bd627a2.png)
 
