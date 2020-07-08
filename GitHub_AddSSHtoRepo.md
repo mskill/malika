@@ -29,6 +29,7 @@ Email is verified
 
 ![image](https://user-images.githubusercontent.com/25001852/86431929-b52ee880-bd13-11ea-8ccf-6bb854408f70.png)
 
+Open GitBash to copy the SSH key previously generated.
 
 - Copy the command using the below command:
 
