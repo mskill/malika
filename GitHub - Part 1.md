@@ -79,3 +79,6 @@ Push the file to remote repository using:
 
 ![image](https://user-images.githubusercontent.com/25001852/86912378-801efd80-c13a-11ea-8ab2-ffafb2abbb02.png)
 
+Now, this make the changes in my GitHub repository
+
+![image](https://user-images.githubusercontent.com/25001852/86912441-9fb62600-c13a-11ea-85ed-df150393a285.png)
