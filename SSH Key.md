@@ -32,6 +32,9 @@ To the list the contents of the .ssh directory, you should find “id_rsa” and
 
 `cat ~/.ssh/id_rsa.pub | clip`
 
-- Now, Open GitHub > Setting > SSH and GPG keys, Click 'New SSH Key' and use CTRL + V to paste the key that we copied using the clip command.
+- Now, Open GitHub and go to Setting 
+
+
+SSH and GPG keys, Click 'New SSH Key' and use CTRL + V to paste the key that we copied using the clip command.
 
 - Click 'Add' and now follow the further instructions given in the reading.
