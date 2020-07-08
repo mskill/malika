@@ -31,7 +31,7 @@ To download the repository, we have option'Download Zip' in 'Code'. Also, there 
 
 To go to the folder “Downloads” use: `cd Downloads`
 
-Create a folder in Downloads using SSH repository link that we have created in GitHub Repository as: 
+Use the SSH repository link from out GitHub Repository and clone it to your local system as follows:
 
 `git clone pastesshrepositorylinkhere`
 
