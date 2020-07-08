@@ -10,5 +10,11 @@ Bash is a Unix command-line shell. The name is an acronym for the ‘Bourne-Agai
 
 Installation Steps:
 - Open the link https://git-scm.com/downloads
-- Click on the operating system to download GitBash accordingly. 
-![image](https://user-images.githubusercontent.com/25001852/86880532-767da180-c10a-11ea-8a29-03e90e3b0a28.png)
+- Click on the operating system to download GitBash accordingly. Click 'Download' as shown below:
+
+![image](https://user-images.githubusercontent.com/25001852/86880942-176c5c80-c10b-11ea-873c-110e9ac0920a.png)
+
+You will be redirected to a new page and it started downloading.
+
+![image](https://user-images.githubusercontent.com/25001852/86880942-176c5c80-c10b-11ea-873c-110e9ac0920a.png)
+
