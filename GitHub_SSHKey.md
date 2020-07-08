@@ -66,7 +66,20 @@ To the list the contents of the .ssh directory, you should find “id_rsa” and
 
 - Now, Open GitHub and go to Setting 
 
+![image](https://user-images.githubusercontent.com/25001852/86890946-b0a36f00-c11b-11ea-837e-b4402f4c591d.png)
 
-SSH and GPG keys, Click 'New SSH Key' and use CTRL + V to paste the key that we copied using the clip command.
+Under Personal settings, select “SSH and GPG keys”, as shown below:
 
-- Click 'Add' and now follow the further instructions given in the reading.
+![image](https://user-images.githubusercontent.com/25001852/86891261-2b6c8a00-c11c-11ea-9684-338dbadf38a3.png)
+
+click the button to add a new SSH key
+
+![image](https://user-images.githubusercontent.com/25001852/86891396-61aa0980-c11c-11ea-957c-0753f446b356.png)
+
+Provide the title. Then select the Key field, and press Ctrl-v to paste the key from the clipboard buffer. The pasted key should have your email address at the end, as shown below:
+
+![image](https://user-images.githubusercontent.com/25001852/86891784-04fb1e80-c11d-11ea-94a6-20ec7bc2abf4.png)
+
+and click 'Add SSH Key'.
+
+Now, the SSH key is added to your account.
