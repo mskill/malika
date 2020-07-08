@@ -35,3 +35,6 @@ To go to the folder “Downloads” use: `cd Downloads`
 
 `git clone pastesshrepositorylinkhere`
 
+![image](https://user-images.githubusercontent.com/25001852/86911345-ce330180-c138-11ea-9f97-966489c07c72.png)
+
+
