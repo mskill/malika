@@ -16,5 +16,6 @@ Installation Steps:
 
 You will be redirected to a new page and it started downloading.
 
-![image](https://user-images.githubusercontent.com/25001852/86880942-176c5c80-c10b-11ea-873c-110e9ac0920a.png)
+![image](https://user-images.githubusercontent.com/25001852/86881300-b2653680-c10b-11ea-9159-c90d810249e1.png)
+
 
