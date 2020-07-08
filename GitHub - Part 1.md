@@ -37,4 +37,36 @@ To go to the folder “Downloads” use: `cd Downloads`
 
 ![image](https://user-images.githubusercontent.com/25001852/86911345-ce330180-c138-11ea-9f97-966489c07c72.png)
 
+Now, the folder is copied to my ‘Downloads’. Just check the ‘Downloads’ have you got the folder demo?
+
+- To check my folder, enter the folder using cd command again as: 
+`cd demo`
+
+- Get the list of the files in the folder demo, use:
+For Windows: `dir `
+For Mac: `ls`
+
+![image](https://user-images.githubusercontent.com/25001852/86911459-f9b5ec00-c138-11ea-8d45-7da44bbc20c1.png)
+
+- To view the content of the file:
+For Windows: `type README.md`
+For Mac: `cat README.md`
+
+- To open a README.md file:
+For Windows: `notepad README.md`
+For Mac: `open README.md`
+
+- To create a new file:
+For Windows: `notepad test.txt`
+For Mac: `vi test.txt`
+
+- Add to the repository: 
+For Windows/Mac: `git add test.txt`
+
+Check the status of the file using:
+ `git status`
+  
+![image](https://user-images.githubusercontent.com/25001852/86912050-ece5c800-c139-11ea-8046-99f987f9d644.png)
+
+
 
