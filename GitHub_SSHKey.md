@@ -1,3 +1,35 @@
+## Create GitHub Account
+
+- Go to GitHub page to create an account:
+[Click Here](https://github.com/join)
+
+- Provide the necessary details to create an account as shown below:
+
+![image](https://user-images.githubusercontent.com/25001852/86441214-79068280-bd29-11ea-913d-c575c8ff8282.png "Git Create Account")
+
+and click 'Create account'.
+
+- Click `Verify` to verify the account and click 'Done' 
+
+![image](https://user-images.githubusercontent.com/25001852/86436621-4310d080-bd20-11ea-866a-8ba864d08211.png "Verify")
+
+- After verification done. Click `Join a Free Plan`
+
+![image](https://user-images.githubusercontent.com/25001852/86436707-6b003400-bd20-11ea-8c51-7a5d58ca1bc5.png 'Join Free Plan')
+
+- Select the details as shown below and click `Complete Setup`
+
+![image](https://user-images.githubusercontent.com/25001852/86431692-13a79700-bd13-11ea-9dcf-ae779bb2feb1.png "Complete Setup")
+
+- Verify your `Email Address`
+
+![image](https://user-images.githubusercontent.com/25001852/86437013-304acb80-bd21-11ea-9310-3a0b1ee12497.png "Verify Email")
+
+Email is verified
+
+![image](https://user-images.githubusercontent.com/25001852/86431929-b52ee880-bd13-11ea-8ccf-6bb854408f70.png)
+
+
 ## SSH Key Generation
 - Launch Git Bash.
 - Type the following, replacing <your email address> with the email address that is linked to your Github account, and hit Enter:
