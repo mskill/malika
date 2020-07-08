@@ -8,4 +8,11 @@
 
 ![image](https://user-images.githubusercontent.com/25001852/86895774-991bb480-c122-11ea-9e0a-0e6ab95c397b.png)
 
-- 
+- Provide the necessary details like repository name. Select repository as Public and initialize the READMD. Click ‘Create’.
+
+![image](https://user-images.githubusercontent.com/25001852/86895873-bc466400-c122-11ea-8627-25401e143743.png)
+
+Now, your repository is created, and it looks as:
+
+![image](https://user-images.githubusercontent.com/25001852/86895916-ccf6da00-c122-11ea-806d-731d579bdc06.png)
+
