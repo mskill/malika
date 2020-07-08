@@ -38,3 +38,19 @@ Adding a file in branch
 
 Then add the file and push the file. To create the branch remotely we have to use 
 `git push --set-upstream origin branchname`
+
+![image](https://user-images.githubusercontent.com/25001852/86916988-07bc3a80-c142-11ea-88c3-e395f9cfc9b3.png)
+
+Switch the branch again to the master using
+`git checkout master`
+
+Merge command to merge the branches
+`git merge mybranch`
+
+As the merge command is used the new create branch will be merged to the master branch and the file will be inserted to it. Previously, we have 2 file in the master, now there are 3 files. Make sure to push the files using `git push`
+![image](https://user-images.githubusercontent.com/25001852/86917132-3e925080-c142-11ea-859b-1652369ddd8b.png)
+
+Now, the file which is in the branch, is now in the master branch 
+![image](https://user-images.githubusercontent.com/25001852/86917264-68e40e00-c142-11ea-8f75-934002d6e1ab.png)
+
+
