@@ -28,12 +28,5 @@ Click it to Install.
 
 ![image](https://user-images.githubusercontent.com/25001852/86881988-1dfbd380-c10d-11ea-8f11-9c564bd627a2.png)
 
-Click 'Next' to accept the license
-
-- Select the default behavior and take this as 'default'. 
-
-![image](https://user-images.githubusercontent.com/25001852/86882106-54395300-c10d-11ea-9caa-b2618360ad86.png)
-
-Click 'Next' to accept the default behavior.
 
 
