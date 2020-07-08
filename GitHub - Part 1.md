@@ -2,7 +2,7 @@
 
 - Login to GitHub account using https://github.com
 
-## Creating Repository in GitHub
+## Creating Repository in GitHub with README.md file
 
 - Create a new repository (it’s a container where all stuff goes) using the + sign as shown below: 
 
@@ -82,3 +82,44 @@ Push the file to remote repository using:
 Now, this make the changes in my GitHub repository
 
 ![image](https://user-images.githubusercontent.com/25001852/86912441-9fb62600-c13a-11ea-85ed-df150393a285.png)
+
+## Create a repository now without README.md file
+
+![image](https://user-images.githubusercontent.com/25001852/86912607-eb68cf80-c13a-11ea-8a51-2569f53ccdd7.png)
+
+Copy the SSHRepositoryLink on to your clipboard as did before
+
+To come out from the demo folder first use
+`cd ..`
+To make a directory in download folder: 
+`mkdir demo1`
+`cd demo1`
+
+![image](https://user-images.githubusercontent.com/25001852/86913896-f886be00-c13c-11ea-8293-11d987521b2e.png)
+
+To create a readmd file use 
+`echo "# demo1" >> README.md`
+
+Initialize the directory
+`git init`
+
+Create and add a README.md file. You can use a normal text editor depending on which OS you are using. 
+`git add README.md`
+
+Check the status of the file 
+`git status`
+
+Commit the changes
+`git commit -m "first commit"`
+
+Add the origin where we have to push the file. This is the SSHRepositoryLink you copied when you created the repository.
+`git remote add origin git@github.com:mskill/demo1.git`
+	
+Push the file 
+`git push -u origin master`
+
+![image](https://user-images.githubusercontent.com/25001852/86914009-31269780-c13d-11ea-8519-76d4103be861.png)
+
+Now, the README.md file is created in our repository
+
+![image](https://user-images.githubusercontent.com/25001852/86914078-51565680-c13d-11ea-9d36-752638d1725e.png)
