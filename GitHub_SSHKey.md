@@ -81,7 +81,7 @@ click the button to add a new SSH key
 
 Provide the title. Then select the Key field, and press Ctrl-v to paste the key from the clipboard buffer. The pasted key should have your email address at the end, as shown below:
 
-![image](https://user-images.githubusercontent.com/25001852/86891784-04fb1e80-c11d-11ea-94a6-20ec7bc2abf4.png)
+![image](https://user-images.githubusercontent.com/25001852/86892959-97e88880-c11e-11ea-89f0-1eade0b3e8f1.png)
 
 and click 'Add SSH Key'.
 
