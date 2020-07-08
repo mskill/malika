@@ -10,11 +10,11 @@
 
 - Provide the necessary details like repository name. Select repository as Public and initialize the READMD. Click ‘Create’.
 
-![image](https://user-images.githubusercontent.com/25001852/86896182-3f67ba00-c123-11ea-9ed1-08b6548c4304.png)
+![image](https://user-images.githubusercontent.com/25001852/86910859-f3734000-c137-11ea-89cd-763ad102f971.png)
 
 Now, your repository is created, and it looks as:
 
-![image](https://user-images.githubusercontent.com/25001852/86896309-6c1bd180-c123-11ea-8d1e-f0002c4183d8.png)
+![image](https://user-images.githubusercontent.com/25001852/86910903-0b4ac400-c138-11ea-89f8-4a39e7d3e459.png)
 
 To download the repository, we have option'Download Zip' in 'Code'. Also, there are two options to copy repository locally using ‘SSH’ and ‘HTTPS’ 
 
