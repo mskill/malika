@@ -1,3 +1,5 @@
+<a href="https://cognitiveclass.ai"><img src = "https://ibm.box.com/shared/static/ugcqz6ohbvff804xp84y4kqnvvk3bq1g.png" width = 300, align = "center"></a>
+
 # GitHub Instructions
 
 ## Create GitHub Account
