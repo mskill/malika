@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/25001852/87115684-92f81600-c291-11ea-9e6f-e67f90cdc551.png)
 
-## Hands-on Lab1: Create your GitHub account
+## Hands-on Lab1: Create your GitHub account & Creating repository
 
 The hands-on labs for this course requires an enviornment for working with GitHub repository. 
 
