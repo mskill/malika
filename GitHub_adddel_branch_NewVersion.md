@@ -1,4 +1,7 @@
-# Creating and deleting branches within your repository
+
+## Hands-o Lab 2: Add branch to repository and creating the PUSH/PULL request
+
+### Creating and deleting branches within your repository
 
 You can create or delete branches directly on GitHub.
 
