@@ -4,7 +4,7 @@
 
 ## Hands-on Lab1: Create your GitHub account
 
-The hands-on labs for this course requires an enviornment for working with GitHub repository. GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. The most important is GitHub will always be free for public and open source projects.
+The hands-on labs for this course requires an enviornment for working with GitHub repository. 
 
 ## Objective
 After completing this lab, you will be able to:
@@ -16,8 +16,11 @@ After completing this lab, you will be able to:
 
 ## Exercise 1: Creating a GitHub Account
 
-- Go to GitHub page to create an account:
-[Click Here](https://github.com/join)
+First let us introduce to GitHub. GitHub in simple words is a collection of folders and files. It is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project. GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. The most important is GitHub will always be free for public and open source projects. 
+
+Please follow the steps given below to create an account in GitHub:
+
+- Create an account at: https://github.com/join
 
 - Provide the necessary details to create an account as shown below:
 
