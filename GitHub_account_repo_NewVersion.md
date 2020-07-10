@@ -8,8 +8,11 @@ The hands-on labs for this course requires an enviornment for working with GitHu
 
 ## Objective
 After completing this lab, you will be able to:
-1. Register to GitHub account
-2. 
+1.	Creating a GitHub account
+2.	Adding a Project / Repo
+3.	Create / edit a file
+4.	Commit
+
 
 
 ## GitHub Instructions
