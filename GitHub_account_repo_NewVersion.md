@@ -106,7 +106,6 @@ Now, check your file is edited with the new text.
 
 Your file is now added to your repository and the repository listing shows when the file was added/changed.
 
-![image](https://user-images.githubusercontent.com/25001852/86439419-2d9ea500-bd26-11ea-9cfc-bfaa5194d543.png "File Added")
 
 
 ## Exercise 4: Upload a file & Commit
