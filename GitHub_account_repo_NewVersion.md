@@ -11,8 +11,8 @@ After completing this lab, you will be able to:
 1.	Creating a GitHub account
 2.	Adding a Project / Repo
 3.	Create / edit a file
-4.  Upload a file
-5.	Commit
+4.  Upload a file & Commit
+
 
 
 ## Exercise 1: Creating a GitHub Account
@@ -23,7 +23,7 @@ Please follow the steps given below to create an account in GitHub:
 
 - Create an account at: https://github.com/join 
 
-<b><b>NOTE:
+<b>NOTE:</b> If you already have a GitHub account, you can skip this step and simply login to your account.
 
 - Provide the necessary details to create an account as shown below:
 
@@ -109,7 +109,7 @@ Your file is now added to your repository and the repository listing shows when 
 ![image](https://user-images.githubusercontent.com/25001852/86439419-2d9ea500-bd26-11ea-9cfc-bfaa5194d543.png "File Added")
 
 
-## Exercise 4: Upload a file
+## Exercise 4: Upload a file & Commit
 
 - Click 'Add file' and select `Uplaod files` to upload a file in the repository from local computer.
 
