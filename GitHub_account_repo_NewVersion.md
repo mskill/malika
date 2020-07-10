@@ -20,7 +20,9 @@ First let us introduce to GitHub. GitHub in simple words is a collection of fold
 
 Please follow the steps given below to create an account in GitHub:
 
-- Create an account at: https://github.com/join
+- Create an account at: https://github.com/join 
+
+<b><b>NOTE:
 
 - Provide the necessary details to create an account as shown below:
 
