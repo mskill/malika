@@ -1,11 +1,14 @@
 
-## Hands-o Lab 2: Add branch to repository and creating the PUSH/PULL request
+## Hands-on Lab 2: Creating and deleting branches within your repository
 
-### Creating and deleting branches within your repository
+### Objective
+1. Create a branch
+2. Adding a child branch
+3. Open a pull request
+4. Merge the PR into master branch
 
+## Exercise 1: Creating a branch
 You can create or delete branches directly on GitHub.
-
-## Creating a branch
 
 - Currently, there is one branch as shown below:
 
@@ -23,7 +26,7 @@ You will then see that your repository has two branches.
 
 Whatever, is in the master file is copied to the child branch. But when we add a file or edit any file in child branch that will not reflect in the 'Master' branch.
 
-## Adding a file in the Child Branch
+## Exercise 2: Adding a file in the Child Branch
 
 - Click `Add file` and select `Create New file` to create a file in the repository.
 
@@ -39,7 +42,7 @@ Whatever, is in the master file is copied to the child branch. But when we add a
 
 File is added to the child branch
 
-## Compare and Pull Request
+## Exercise 3: Open a Pull Request
 
 You can check the master branch now there is no testchild.py file by selecting the `Branch selector` menu 
 
@@ -58,7 +61,7 @@ Or you can also compare the file as shown below with the option given `Compare a
 
 ![image](https://user-images.githubusercontent.com/25001852/86446021-f71a5780-bd30-11ea-99d1-e7010d9aad5c.png)
 
-## Merge the Pull Request
+## Exercise 4: Merge the Pull Request
 
 To accept the pull request, click the `Pull Requests` tab to see a summary of pending pull requests. If you are happy with the changes, click `Merge Pull request` to accept the pull request and perform the merge. You can add in a comment if you want.
 
