@@ -2,6 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/25001852/87115684-92f81600-c291-11ea-9e6f-e67f90cdc551.png)
 
+## Hands-on Lab1: Create your GitHub account
+
+The hands-on labs for this course requires an enviornment for working with GitHub repository. GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. The most important is GitHub will always be free for public and open source projects.
+
+## Objective
+
+
 
 # GitHub Instructions
 
