@@ -14,10 +14,7 @@ After completing this lab, you will be able to:
 4.	Commit
 
 
-
-## GitHub Instructions
-
-## Create GitHub Account
+## Exercise 1: Creating a GitHub Account
 
 - Go to GitHub page to create an account:
 [Click Here](https://github.com/join)
