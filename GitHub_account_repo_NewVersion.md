@@ -11,7 +11,8 @@ After completing this lab, you will be able to:
 1.	Creating a GitHub account
 2.	Adding a Project / Repo
 3.	Create / edit a file
-4.	Commit
+4.  Upload a file
+5.	Commit
 
 
 ## Exercise 1: Creating a GitHub Account
@@ -50,7 +51,7 @@ Email is verified
 
 ![image](https://user-images.githubusercontent.com/25001852/86431929-b52ee880-bd13-11ea-8ccf-6bb854408f70.png)
 
-## Create a New Repository in your GitHub account
+## Exercise 2: Adding a Project / Repo
 
 - Click on `+` symbol and click `New repository`.
 
@@ -67,7 +68,10 @@ Now, you will be redirected to the repository you have created.
 
 Let's start editing the repository.
 
-## Edit
+## Exercise 3: Create / edit a file
+
+### Exercise 3a: Edit a file 
+
 - Once the repository is created, the root folder of your repository is listed by default and it has just one file `ReadMe.md` . Click on the pencil icon to edit the file.
 
 ![image](https://user-images.githubusercontent.com/25001852/86437869-0f837580-bd23-11ea-9bbd-2a9615c5e9f8.png "Edit Readme.md file")
@@ -82,7 +86,7 @@ Let's start editing the repository.
 
 Now, check your file is edited with the new text.
 
-## Create a New file in repository
+## Exercise 3b: Create a new file
 
 - Click on the repository name to go back to the master branch like in this testrepo.
 
@@ -105,7 +109,7 @@ Your file is now added to your repository and the repository listing shows when 
 ![image](https://user-images.githubusercontent.com/25001852/86439419-2d9ea500-bd26-11ea-9cfc-bfaa5194d543.png "File Added")
 
 
-## Upload a file
+## Exercise 4: Upload a file
 
 - Click 'Add file' and select `Uplaod files` to upload a file in the repository from local computer.
 
