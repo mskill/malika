@@ -86,7 +86,7 @@ Let's start editing the repository.
 
 Now, check your file is edited with the new text.
 
-## Exercise 3b: Create a new file
+### Exercise 3b: Create a new file
 
 - Click on the repository name to go back to the master branch like in this testrepo.
 
