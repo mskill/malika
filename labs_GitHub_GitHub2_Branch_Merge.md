@@ -30,7 +30,7 @@ You will then see that your repository has two branches.
 
 ![image](images/Branch_number_changed.png "Branch_number_changed")
 
-Whatever, is in the master file is copied to the child branch. But when we add a file or edit any file in child branch that will not reflect in the 'Master' branch.
+Whatever is in the master file is copied to the child branch. But when we add a file or edit any file in child branch that will not reflect in the 'Master' branch.
 
 ## Exercise 2: Adding a file in the Child Branch
 
@@ -42,11 +42,11 @@ Whatever, is in the master file is copied to the child branch. But when we add a
 
 ![image](images/Add_content_branch.png "Add_content_branch")
 
-- Scroll down the page after adding the text. Add description of the file (optional) and click Commit new file.
+- Scroll down the page after adding the text. Add a description of the file (optional) and click Commit new file.
 
 ![image](images/Commit_branch_file.png "Commit_branch_file")
 
-File is added to the child branch.
+The file is added to the child branch.
 
 ## Exercise 3: Open a Pull Request
 
@@ -69,7 +69,7 @@ Or you can also compare the file as shown below with the option given Compare an
 
 ## Exercise 4: Merge the Pull Request
 
-To accept the pull request, click the `Pull Requests` tab to see a summary of pending pull requests. If you are happy with the changes, click `Merge Pull request` to accept the pull request and perform the merge. You can add in a comment if you want.
+To accept the pull request, click the `Pull Requests` tab to see a summary of pending pull requests. If you are happy with the changes, click `Merge Pull request` to accept the pull request and perform the merge. You can add a comment if you want.
 
 ![image](images/Merge_Request.png "Merge_Request")
 
@@ -87,7 +87,7 @@ Now, the child branch is completely merged with the Master branch. You can check
 
 ## Summary
 
-In this document, you have learnt how to create a branch, edit and commit the changes, Open a pull request and merging the request.
+In this document, you have learned how to create a branch, edit and commit the changes, open a pull request, and merge the request.
 
 ## Author(s)
 <h4> Malika Singla <h4/>
