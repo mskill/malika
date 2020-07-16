@@ -3,7 +3,7 @@
 
 <b>Effort:</b> 20 min
 
-In this lab you will get started with GitHub by creating a GitHub account and project and adding a file to it using its Web interface.
+In this lab, you will get started with GitHub by creating a GitHub account and project and adding a file to it using its Web interface.
 
 ## Objectives
 After completing this lab, you will be able to:
@@ -14,13 +14,13 @@ After completing this lab, you will be able to:
 4.  Upload a file & Commit
 
 ## GitHub Overview
-First let us introduce to GitHub. GitHub in simple words is a collection of folders and files. It is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool and a server which needs to be hosted and maintained via command line as well, GitHub provides this Git server for you and a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project. GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process.  GitHub includes a free plan for individual developers and for hosting open source projects.
+First, let us introduce to GitHub. GitHub in simple words is a collection of folders and files. It is a Git repository hosting service, but it adds many of its own features. While Git is a command-line tool and a server that needs to be hosted and maintained via command line as well, GitHub provides this Git server for you and a Web-based graphical interface. It also provides access control and several collaboration features, such as wikis and basic task management tools for every project. GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process.  GitHub includes a free plan for individual developers and for hosting open source projects.
 
 ## Exercise 1: Creating a GitHub Account
 
 Please follow the steps given below to create an account in GitHub:
 
-- Create an account at: https://github.com/join 
+- Create an account: https://github.com/join 
 
 <b>NOTE:</b> If you already have a GitHub account, you can skip this step and simply login to your account.
 
@@ -34,7 +34,7 @@ and click 'Create account'.
 
 ![image](images/Verify.PNG "Verify")
 
-- After verification done. Click `Join a Free Plan`
+- After verification is done. Click `Join a Free Plan`
 
 ![image](images/JoinFreePlan.PNG "Join Free Plan")
 
@@ -52,7 +52,7 @@ Email is verified
 
 ## Exercise 2: Adding a Project / Repo
 
-- Click on `+` symbol and click `New repository`.
+- Click on the `+` symbol and click `New repository`.
 
 ![image](images/Create_repo.png "New Repo")
 
@@ -99,7 +99,7 @@ Now, check your file is edited with the new text.
 
 ![image](images/Add_filename.png "Add filename")
 
-- Scroll down the page after adding the text. Add description of the file (optional) and click Commit new file.
+- Scroll down the page after adding the text. Add a description of the file (optional) and click Commit new file.
 
 ![image](images/commit_newfile.png "Commit New file")
 
@@ -108,7 +108,7 @@ Now, check your file is edited with the new text.
 
 ## Exercise 4: Upload a file & Commit
 
-- Click 'Add file' and select `Uplaod files` to upload a file in the repository from local computer.
+- Click 'Add file' and select `Upload files` to upload a file in the repository from the local computer.
 
 ![image](images/upload.png "Upload")
 
@@ -120,12 +120,12 @@ Now, check your file is edited with the new text.
 
 ![image](images/commit_upload.png "Commit Uplaod")
 
-- Now, your file is uplaoded in the repository.
+- Now, your file is uploaded to the repository.
 
 ![image](images/check_change.png "Check change")
 
 ## Summary
-In this document you have learnt how to create a new repository, adding a new file, editing a file and uploading a file in a repository and commit the changes.
+In this document you have learned how to create a new repository, adding a new file, editing a file, and uploading a file in a repository and commit the changes.
 
 ## Author(s)
 <h4> Romeo Kienzler <h4/>
